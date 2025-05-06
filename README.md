@@ -37,21 +37,21 @@ This project is a front-end clone of YouTube, aiming to provide users with a fam
    git clone https://github.com/mahmoud-saed/YouTube-clone.git
    cd YouTube-clone
    ```
-
+
 
 2. **Install dependencies:**
 
    ```bash
    npm install
    ```
-
+
 
 3. **Start the development server:**
 
    ```bash
    npm start
    ```
-
+
 
    The application will run at `http://localhost:3000`.
 
